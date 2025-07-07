@@ -23,7 +23,8 @@ const HomeSection = () => {
       {/* Description - 2/3 width */}
       <div className="w-full md:w-2/3 text-center md:text-left">
         <h1 className="text-3xl sm:text-4xl font-bold text-black mb-4">
-          Hi, Im Anmol Ruhella
+        <p>Hi, I&apos;m Anmol Ruhella</p>
+
         </h1>
         <p className="text-gray-700 text-lg leading-relaxed">
           I’m a Frontend Developer who enjoys creating beautiful, responsive, and easy-to-use websites. I specialize in using technologies like React, Next.js, and Tailwind CSS to build fast and user-friendly interfaces.
